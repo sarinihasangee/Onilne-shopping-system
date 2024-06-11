@@ -1,0 +1,36 @@
+Product ID: C09876 
+Product Name: Skirt 
+Available Items: 4 
+Product Price: 500.0 
+Size: M 
+Color: Pink
+Product ID: C5678 
+Product Name: Frock 
+Available Items: 2 
+Product Price: 4500.0 
+Size: L 
+Color: Blue
+Product ID: C8975 
+Product Name: Blouse 
+Available Items: 7 
+Product Price: 560.0 
+Size: L 
+Color: Gray
+Product ID: E5678 
+Product Name: Watch 
+Available Items: 2 
+Product Price: 3000.0 
+Brand: Ck 
+Warranty: 7 months
+Product ID: E8974 
+Product Name: Fan 
+Available Items: 10 
+Product Price: 10000.0 
+Brand: KDK 
+Warranty: 3 months
+Product ID: C5678 
+Product Name: TSHIRT 
+Available Items: 5 
+Product Price: 560.0 
+Size: M 
+Color: Green
